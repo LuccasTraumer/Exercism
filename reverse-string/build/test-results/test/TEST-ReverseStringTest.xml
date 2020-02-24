@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ReverseStringTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-02-21T17:16:20" hostname="WNB024496CPS" time="0.005">
+<testsuite name="ReverseStringTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-02-24T11:11:04" hostname="WNB024496CPS" time="0.005">
   <properties/>
-  <testcase name="testAWord" classname="ReverseStringTest" time="0.003"/>
+  <testcase name="testAWord" classname="ReverseStringTest" time="0.004"/>
   <testcase name="testAnEmptyString" classname="ReverseStringTest" time="0.0"/>
   <testcase name="testACapitalizedWord" classname="ReverseStringTest" time="0.0"/>
   <testcase name="testASentenceWithPunctuation" classname="ReverseStringTest" time="0.0"/>

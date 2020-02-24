@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b61a96c-3446-46c9-b65e-db8685444866" name="Default Changelist" comment="" />
+    <list default="true" id="8b61a96c-3446-46c9-b65e-db8685444866" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../reverse-string/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/src/main/java/Acronym.java" beforeDir="false" afterPath="$PROJECT_DIR$/../acronym/src/main/java/Acronym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/src/main/java/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/src/main/java/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/src/main/java/RaindropConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raindrops/src/main/java/RaindropConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/build/classes/java/main/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/build/classes/java/main/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/build/reports/tests/test/classes/ReverseStringTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/build/reports/tests/test/classes/ReverseStringTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/build/test-results/test/TEST-ReverseStringTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/build/test-results/test/TEST-ReverseStringTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/src/main/java/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/src/main/java/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpaceAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpaceAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/src/main/java/Twofer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/src/main/java/Twofer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +43,11 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Y7vg8YpAWkRsIuXXI2aTIFo3s6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

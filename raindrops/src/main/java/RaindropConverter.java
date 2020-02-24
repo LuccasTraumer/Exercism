@@ -1,10 +1,10 @@
+import java.lang.StringBuilder;
 class RaindropConverter {
 
     String convert(int number) {
-        //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
         String ret = "";
 
-        for(int i=0; i <= number/2; i++){
+        for(int i=2; i <= number; i++){
             if(number % i == 0){
                 if(i == 3)
                     ret += "Pling";
@@ -15,7 +15,7 @@ class RaindropConverter {
             }
         }
         if(ret.equals(""))
-            ret += number;
+            ret += number+"";
 
         return ret;
 
