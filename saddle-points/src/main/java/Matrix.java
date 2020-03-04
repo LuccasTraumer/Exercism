@@ -3,11 +3,20 @@ import java.util.Set;
 
 class Matrix {
 
-    Matrix(List<List<Integer>> values) {
+    private List<List<Integer>> matriz;
 
+    Matrix(List<List<Integer>> values) {
+        this.matriz = values;
     }
 
     Set<MatrixCoordinate> getSaddlePoints() {
+        return this.matriz;
+    }
+
+    private int smallerNumberColm(){
+
+    }
+    private int smallerNumberRow(){
 
     }
 }
