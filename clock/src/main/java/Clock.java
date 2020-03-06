@@ -11,18 +11,18 @@ public class Clock{
     }
 
     private int manyMin(int min){
-        int hours = 0;
+        int horas = 0;
         int minute = this.minutes;
         if(min > 0) {
             while (min != 0) {
                 minute++;
                 min--;
                 if(minute >= 60){
-                    hours++;
+                    horas++;
                     minute=0;
                 }
             }
-            this.hours = manyHours(hours);
+            this.hours = manyHours(horas);
         }else{
             while(min != 0){
                 minute--;
@@ -61,16 +61,10 @@ public class Clock{
 
     public void add(int minutes){
         this.minutes = manyMin(minutes);
-        System.out.println();
     }
+    @Override
     public String toString(){
-        String horas = this.hours+"";
-        String minutes = this.minutes+"";
-
-        horas = horas.length() > 1 ? horas+":" : "0"+horas+":";
-        minutes =minutes.length() > 1 ? minutes : "0"+minutes;
-
-        return horas + minutes;
+        return String.format("%02d:%02d", this.hours, this.minutes);
     }
 
     @Override
@@ -88,5 +82,19 @@ public class Clock{
             return false;
 
         return true;
+    }
+
+    public int hashCode(){
+        int ret = 1;
+        int primo = 7;
+
+        ret = ret * primo + new Integer(hours).hashCode();
+        ret = ret * primo + new Integer(minutes).hashCode();
+
+        if(ret < 0){
+            ret -= ret;
+        }
+
+        return ret;
     }
 }

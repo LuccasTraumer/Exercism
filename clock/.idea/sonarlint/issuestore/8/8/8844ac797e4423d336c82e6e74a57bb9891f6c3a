@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+C
+java:S2129["!Remove this "Integer" constructor(è»­›ÿÿÿÿÿ8¦ğøşŠ.
+L
+java:S1874\"/Remove this use of "Integer"; it is deprecated.(­û§ˆ8ô½ûşŠ.
+W
+java:S1126Q"AReplace this if-then-else statement by a single return statement.(ıóšŸ
+>
+java:S2129\"!Remove this "Integer" constructor(­û§ˆ8ô½ûşŠ.
+Q
+java:S1874["/Remove this use of "Integer"; it is deprecated.(è»­›ÿÿÿÿÿ8¦ğøşŠ.

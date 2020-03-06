@@ -1,0 +1,11 @@
+
+J
+java:S1144"5Remove this unused private "smallerNumberRow" method.(ыхЁ
+Ь
+java:S1186"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(АрсЎь€€€€
+0
+java:S1220""Move this file to a named package.
+Q
+java:S1144"6Remove this unused private "smallerNumberColm" method.(АрсЎь€€€€
+Ц
+java:S1186"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ыхЁ
